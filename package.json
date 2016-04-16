@@ -1,0 +1,23 @@
+{
+  "name": "slack-store-analytics",
+  "version": "1.0.0",
+  "description": "Analytics for the Slack App Directory",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.2",
+    "bluebird": "^3.3.4",
+    "body-parser": "^1.15.0",
+    "cheerio": "^0.20.0",
+    "cookie-parser": "^1.4.1",
+    "express": "^4.13.4",
+    "morgan": "^1.7.0",
+    "request": "^2.69.0",
+    "request-promise": "^2.0.1",
+    "to-markdown": "^2.0.1"
+  }
+}
